@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+  <diagram name="Page-1" id="mlgycDfIqBO2ohf--EfI">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svorShu_H2-YRhGcgIER-114" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="560" />
+              <mxPoint x="710" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-74" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Student" vertex="1">
+          <mxGeometry height="40" width="100" x="369" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-75" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="600" />
+            </Array>
+            <mxPoint x="469" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Name" vertex="1">
+          <mxGeometry height="40" width="100" x="509" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-77" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;u&gt;Roll No.&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="469" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-79" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Semester" vertex="1">
+          <mxGeometry height="40" width="80" x="229" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-83" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Course" vertex="1">
+          <mxGeometry height="40" width="100" x="369" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-84" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-85" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-86" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Enrolled" vertex="1">
+          <mxGeometry height="60" width="120" x="359" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-87" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-74" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="630" />
+              <mxPoint x="389" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Batch" vertex="1">
+          <mxGeometry height="40" width="100" x="339" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-89" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Branch" vertex="1">
+          <mxGeometry height="40" width="100" x="219" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-91" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-83" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="359" y="370" />
+              <mxPoint x="389" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;u&gt;Course&lt;/u&gt;&lt;div&gt;&lt;u&gt;Code&lt;/u&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="309" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-93" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-94" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Course&lt;div&gt;Name&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="509" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-95" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-96" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Faculty" vertex="1">
+          <mxGeometry height="40" width="100" x="229" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-97" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="444" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Credits" vertex="1">
+          <mxGeometry height="40" width="100" x="439" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-102" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Exam" vertex="1">
+          <mxGeometry height="40" width="100" x="690" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-110" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-125" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-123" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-109" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Takes" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-126" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-127" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="360" />
+              <mxPoint x="470" y="360" />
+            </Array>
+            <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-116" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Conducts" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-122" edge="1" parent="1" source="svorShu_H2-YRhGcgIER-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="svorShu_H2-YRhGcgIER-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-120" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Date of Exam" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="svorShu_H2-YRhGcgIER-123" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Grade" vertex="1">
+          <mxGeometry height="40" width="100" x="690" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
